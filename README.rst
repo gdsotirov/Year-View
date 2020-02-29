@@ -2,8 +2,8 @@
 Year View
 =========
 
-Year View it's a Thunderbird/Lightning add-on wich add a year view to the 
-existing calendar views
+Year View is a Thunderbird/Lightning add-on which adds a _Year_ view to the 
+existing calendar views.
 
 Install
 -------
